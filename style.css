@@ -26,3 +26,10 @@ footer {
   font-family: verdana;
   font-size: 2rem;
 }
+button {
+  background-color: cyan;
+  font-family: verdana;
+  font-size: 1em;
+  padding: 10px;
+  border-radius: 15px;
+}
